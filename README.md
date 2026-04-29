@@ -87,7 +87,7 @@ JARVIS_REPORT.pdf
 JARVIS_REPORT.docx
 👤 Author
 
-Miral dhankecha
+Min
 BCA Student | Aspiring AI & Software Developer
 
 📜 License

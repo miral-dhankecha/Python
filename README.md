@@ -37,7 +37,7 @@ JARVIS/
 └── JARVIS_REPORT.docx    # Editable report
 ⚙️ Installation
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/jarvis-project.git
+https://github.com/miral-dhankecha/Python/tree/main/JARVIS
 cd jarvis-project
 2️⃣ Create Virtual Environment (Recommended)
 python -m venv venv
